@@ -1,0 +1,5 @@
+Silhouette Score: 0.517363965511322
+Dunn Index: 0.0006200075893502445
+Davies-Bouldin Index: 0.6702602815651734
+Calinski–Harabasz Index: 114922.60749871065
+C-index: 171459.67120466477
