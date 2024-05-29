@@ -11,8 +11,8 @@ pip install matplotlib
 
 jupyter notebook
 
->pip install notebook
->
+pip install notebook
+
 pip install scikit-learn
 
 pip install numpy  
